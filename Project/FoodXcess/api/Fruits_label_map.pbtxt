@@ -1,0 +1,315 @@
+item {
+    name: "Apple",
+    id: 1,
+    display_name: "Apple"
+}
+item {
+    name: "Apricot",
+    id: 2,
+    display_name: "Apricot"
+}
+item {
+    name: "Avocado",
+    id: 3,
+    display_name: "Avocado"
+}
+item {
+    name: "Banana",
+    id: 4,
+    display_name: "Banana"
+}
+item {
+    name: "Beetroot",
+    id: 5,
+    display_name: "Beetroot"
+}
+item {
+    name: "Blueberry",
+    id: 6,
+    display_name: "Blueberry"
+}
+item {
+    name: "Cactus",
+    id: 7,
+    display_name: "Cactus"
+}
+item {
+    name: "Cantaloupe",
+    id: 8,
+    display_name: "Cantaloupe"
+}
+item {
+    name: "Carambula",
+    id: 9,
+    display_name: "Carambula"
+}
+item {
+    name: "Cauliflower",
+    id: 10,
+    display_name: "Cauliflower"
+}
+item {
+    name: "Cherry",
+    id: 11,
+    display_name: "Cherry"
+}
+item {
+    name: "Chestnut",
+    id: 12,
+    display_name: "Chestnut"
+}
+item {
+    name: "Clementine",
+    id: 13,
+    display_name: "Clementine"
+}
+item {
+    name: "Cocos",
+    id: 14,
+    display_name: "Cocos"
+}
+item {
+    name: "Dates",
+    id: 15,
+    display_name: "Dates"
+}
+item {
+    name: "Eggplant",
+    id: 16,
+    display_name: "Eggplant"
+}
+item {
+    name: "Ginger",
+    id: 17,
+    display_name: "Ginger"
+}
+item {
+    name: "Granadilla",
+    id: 18,
+    display_name: "Granadilla"
+}
+item {
+    name: "Grape",
+    id: 19,
+    display_name: "Grape"
+}
+item {
+    name: "Grapefruit",
+    id: 20,
+    display_name: "Grapefruit"
+}
+item {
+    name: "Guava",
+    id: 21,
+    display_name: "Guava"
+}
+item {
+    name: "Hazelnut",
+    id: 22,
+    display_name: "Hazelnut"
+}
+item {
+    name: "Huckleberry",
+    id: 23,
+    display_name: "Huckleberry"
+}
+item {
+    name: "Kaki",
+    id: 24,
+    display_name: "Kaki"
+}
+item {
+    name: "Kiwi",
+    id: 25,
+    display_name: "Kiwi"
+}
+item {
+    name: "Kohlrabi",
+    id: 26,
+    display_name: "Kohlrabi"
+}
+item {
+    name: "Kumquats",
+    id: 27,
+    display_name: "Kumquats"
+}
+item {
+    name: "Lemon",
+    id: 28,
+    display_name: "Lemon"
+}
+item {
+    name: "Limes",
+    id: 29,
+    display_name: "Limes"
+}
+item {
+    name: "Lychee",
+    id: 30,
+    display_name: "Lychee"
+}
+item {
+    name: "Mandarine",
+    id: 31,
+    display_name: "Mandarine"
+}
+item {
+    name: "Mango",
+    id: 32,
+    display_name: "Mango"
+}
+item {
+    name: "Mangostan",
+    id: 33,
+    display_name: "Mangostan"
+}
+item {
+    name: "Maracuja",
+    id: 34,
+    display_name: "Maracuja"
+}
+item {
+    name: "Melon",
+    id: 35,
+    display_name: "Melon"
+}
+item {
+    name: "Mulberry",
+    id: 36,
+    display_name: "Mulberry"
+}
+item {
+    name: "Nectarine",
+    id: 37,
+    display_name: "Nectarine"
+}
+item {
+    name: "Nut",
+    id: 38,
+    display_name: "Nut"
+}
+item {
+    name: "Onion",
+    id: 39,
+    display_name: "Onion"
+}
+item {
+    name: "Orange",
+    id: 40,
+    display_name: "Orange"
+}
+item {
+    name: "Papaya",
+    id: 41,
+    display_name: "Papaya"
+}
+item {
+    name: "Passion",
+    id: 42,
+    display_name: "Passion"
+}
+item {
+    name: "Peach",
+    id: 43,
+    display_name: "Peach"
+}
+item {
+    name: "Pear",
+    id: 44,
+    display_name: "Pear"
+}
+item {
+    name: "Pepino",
+    id: 45,
+    display_name: "Pepino"
+}
+item {
+    name: "Pepper",
+    id: 46,
+    display_name: "Pepper"
+}
+item {
+    name: "Physalis",
+    id: 47,
+    display_name: "Physalis"
+}
+item {
+    name: "Pineapple",
+    id: 48,
+    display_name: "Pineapple"
+}
+item {
+    name: "Pitahaya",
+    id: 49,
+    display_name: "Pitahaya"
+}
+item {
+    name: "Plum",
+    id: 50,
+    display_name: "Plum"
+}
+item {
+    name: "Pomegranate",
+    id: 51,
+    display_name: "Pomegranate"
+}
+item {
+    name: "Pomelo",
+    id: 52,
+    display_name: "Pomelo"
+}
+item {
+    name: "Potato",
+    id: 53,
+    display_name: "Potato"
+}
+item {
+    name: "Quince",
+    id: 54,
+    display_name: "Quince"
+}
+item {
+    name: "Rambutan",
+    id: 55,
+    display_name: "Rambutan"
+}
+item {
+    name: "Raspberry",
+    id: 56,
+    display_name: "Raspberry"
+}
+item {
+    name: "Redcurrant",
+    id: 57,
+    display_name: "Redcurrant"
+}
+item {
+    name: "Salak",
+    id: 58,
+    display_name: "Salak"
+}
+item {
+    name: "Strawberry",
+    id: 59,
+    display_name: "Strawberry"
+}
+item {
+    name: "Tamarillo",
+    id: 60,
+    display_name: "Tamarillo"
+}
+item {
+    name: "Tangelo",
+    id: 61,
+    display_name: "Tangelo"
+}
+item {
+    name: "Tomato",
+    id: 62,
+    display_name: "Tomato"
+}
+item {
+    name: "Walnut",
+    id: 63,
+    display_name: "Walnut"
+}
